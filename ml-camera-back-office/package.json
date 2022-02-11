@@ -30,7 +30,7 @@
     "dropzone": "^5.5.1",
     "flag-icon-css": "^3.0.0",
     "font-awesome": "^4.7.0",
-    "froala-editor": "^2.9.1",
+    "froala-editor": "^4.0.7",
     "fs": "0.0.1-security",
     "fstream": "^1.0.11",
     "jquery": "^3.3.1",
